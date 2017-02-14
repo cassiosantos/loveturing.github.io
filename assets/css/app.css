@@ -1,0 +1,142 @@
+
+.header {
+
+}
+
+.header-title {
+    background-color: #458588;
+    font-weight: bold;
+    font-size: 1.5em;
+    color: #fbf1c7;
+}
+
+.texto-sobre {
+    margin-top: 2%;
+    margin-bottom: 2%;
+    font-weight: bold;
+    font-size: 1.1em;
+    text-align: justify;
+}
+
+.history {
+    text-align: center;
+    font-weight: bold;
+}
+
+.history-lovelace-title {
+    font-size: 1.2em;
+    color: #79740e;
+}
+
+.history-lovelace-content {
+    text-align: justify;
+    font-size: 1.1em;
+    color: #79740e;
+}
+
+.history-alan-title {
+    font-size: 1.2em;
+    color: #b57614;
+}
+
+.history-alan-content {
+    text-align: justify;
+    font-size: 1.1em;
+    color: #b57614;
+}
+
+.news {
+    font-weight: bold;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+.news-title {
+    background-color: #b16286;
+    text-align: center;
+    font-size: 1.2em;
+    color: #fbf1c7;
+}
+
+.news-date {
+    text-align: center;
+    background-color: #d5c4a1;
+    font-size: 1.1em;
+}
+
+.news-content {
+    padding-left: 2%;
+    background-color: #d5c4a1;
+    font-size: 1.1em;
+}
+
+.news-author {
+    text-align: center;
+    background-color: #d5c4a1;
+    font-size: 1.1em;
+}
+
+.news-send {
+    float: right;
+}
+
+
+.rules {
+    margin-top: 2%;
+    margin-bottom: 2%;
+    font-weight: bold;  
+    text-align: center;
+    
+}
+
+.rules-title {
+    background-color: #cc241d;
+    font-size: 1.2em;
+    color: #fbf1c7;
+    text-align: center;
+}
+
+
+
+.biblioteca-coniko {
+    margin-top: 2%;
+    margin-bottom: 2%:
+}
+
+.biblioteca-coniko-title {
+    text-align: center;
+    color: #fbf1c7;
+    font-size: 1.2em;
+    font-weight: bold;
+    background-color: #689d6a;
+}
+
+.biblioteca-coniko-descricao {
+   text-align: justify; 
+   
+}
+
+.periodo {
+    background-color: #689d6a;
+    color: #fbf1c7;
+}
+
+.assinatura {
+    margin-top: 2%;
+    text-align: center;
+    color: #fbf1c7;
+    background-color: #282828;
+}
+
+.assinatura-amor {
+    color: #fb4934;
+}
+
+.assinatura a {
+    color: #83a598;
+    font-size: 1.1em;
+}
+
+.assinatura a:hover {
+    color: #83a598;
+}

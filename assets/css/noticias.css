@@ -1,0 +1,52 @@
+
+
+body {
+    font-weight: bold;
+}
+
+.title {
+    margin-top: 10%;
+    font-size: 1.6em;
+    text-align: center;
+    background-color: #b16286;
+    color: #fbf1c7
+}
+
+.date {
+    font-size: 1.1em;
+    text-align: center;
+}
+
+.author {
+    font-size: 1.1em;
+    text-align:center;
+}
+
+.text {
+    margin-top: 5%;
+}
+.text-title {
+    font-size: 1.2em;
+}
+
+.text-content {
+    font-size: 1.4em;
+    text-align: justify;
+    font-height: 1%;
+    line-height: 150%;
+    margin-top: 10%;
+    margin-bottom: 10%;
+
+}
+
+img {
+    max-width: 50%;   
+}
+
+
+.news-rollback {
+    margin-top: 5%;
+    text-align: center;
+    font-size: 1.1em;
+    font-weight: bold;
+}

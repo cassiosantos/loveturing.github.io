@@ -1,0 +1,47 @@
+
+.disciplina-name {
+    margin-top: 5%;
+    text-align: center;
+    font-size: 1.7em;
+    font-weight: bold;
+}
+
+.disciplina-unidade {
+    font-size: 1.5em;
+    font-weight: bold;
+    background-color: #689d6a;
+    padding-left: 3%;
+}
+
+.disciplina-subunidade {
+    font-size: 1.3em;
+    font-weight: bold;
+    background-color: #689d6a;
+    padding-left: 5%;
+    
+}
+
+.disciplina-apoio-title {
+    text-align: center;
+    font-size: 1.2em;
+    font-weight: bold;
+}
+
+
+.disciplina-professor {
+
+}
+
+.disciplina-autores {
+    margin-top: 5%;
+    font-size: 1.1em;
+    font-weight: bold;
+}
+
+.disciplina-bib-professor {
+
+}
+
+.disciplina-bib-alunos {
+
+}
