@@ -84,9 +84,9 @@
 .rules {
     margin-top: 2%;
     margin-bottom: 2%;
-    font-weight: bold;  
+    font-weight: bold;
     text-align: center;
-    
+
 }
 
 .rules-title {
@@ -112,13 +112,18 @@
 }
 
 .biblioteca-coniko-descricao {
-   text-align: justify; 
-   
+   text-align: justify;
+
 }
 
 .periodo {
     background-color: #689d6a;
     color: #fbf1c7;
+    font-weight: bold;
+}
+
+.periodo span {
+  font-size: 1.2em;
 }
 
 .assinatura {
