@@ -27,6 +27,7 @@ Exemplos de comportamentos inaceitáveis por parte dos participantes incluem:
 * Assédio público ou privado
 * Publicar informação pessoal de outros sem permissão explícita, como, por exemplo, um endereço eletrônico ou residencial
 * Qualquer outra forma de conduta que pode ser razoavelmente considerada inapropriada num ambiente profissional
+* Não é permitido o compartilhamento de slides, provas ou trabalhos dos professores sem a autorização dos mesmos.
 
 Nossas responsibilidades
 
