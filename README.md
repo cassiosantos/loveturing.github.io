@@ -5,7 +5,8 @@
 
 All content are in Portuguese.
 
+---- 
 
 *Português (BR)*: Este é o website do Grupo de Estudos de Ciência da Computação na Univali Campus Kobrasol.
 
-Todas as contribuições são bem vindas mas devem seguir o nosso [código de conduta](CODE_OF_CONDUCT.md)
+Todas as contribuições são bem vindas, mas devem seguir o nosso [código de conduta](CODE_OF_CONDUCT.md).
